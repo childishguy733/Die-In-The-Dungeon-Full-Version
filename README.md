@@ -241,4 +241,4 @@ This repository serves as the official landing page for **Die in the Dungeon**. 
 **Get the most recent version of Die in the Dungeon today!**
 
 ---
-**Last updated:** 2026-09-23 10:51:16 UTC
+**Last updated:** 2026-09-23 15:18:14 UTC
